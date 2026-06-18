@@ -13,11 +13,11 @@ else:
     print(" you choose an invalid option ! ")
 
 
-# Program to find the ASCII value of the given character
+#  Program to find the ASCII value of the given character
 user_input = input("enter single character ")
 print(f"the ascci value of {user_input} is {ord(user_input)}")
 
-# Python Program to Find the Factors of a Number
+#  Python Program to Find the Factors of a Number
 num = int(input("enter an integer! "))
 for i in range(1, num+1):
     if num % i == 0:

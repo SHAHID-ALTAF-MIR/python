@@ -8,7 +8,3 @@ def fibonacci(n):
 
 
 fibonacci(int(input("enter a number!  ")))
-
-# Python Program to Check Armstrong Number
-
-# Python Program to Find HCF or GCD
