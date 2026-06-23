@@ -29,4 +29,20 @@ print("i am {0} i am {1} old and my height is {2} and my freinds name is also {0
 print("i am {name} i am {old} old and my height is {tall}".format(
     name=name, old=age, tall=height))
 
+
 funds = 1509.879
+print("funds :{}".format(funds))
+# we can also control the decimal places in the float
+print("funds :{:.1f}".format(funds))
+# we can also control spacing
+print("funds :{:10.1f}".format(funds))
+# also we control allignment by ,<,> and ^
+# for left allignment
+print("funds :{:<10.1f}".format(funds))
+# for right allignment
+print("funds :{:>10.1f}".format(funds))
+# for centre allignment
+print("funds :{:^10.1f}".format(funds))
+
+# we can also fill the empty space with a place holder
+print("funds :{:_^10.1f}".format(funds))
