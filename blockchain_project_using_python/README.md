@@ -12,6 +12,7 @@ The project helps me learn Python through a real world use case.
 | `blockchain(after_module_2).py`      | Module 2 — Loops and conditionals in blockchain        |
 | `blockchain(after_module_3).py`      | Module 3 - Understanding Complex Data Structures       |
 | `blockchain(after_module_4).py`      | Module 4 - Working with Functions & Strings            |
+| `blockchain(after_module_5).py`      | Module 5 - Working with the Python Standard Library    |     |
 | `practice_questions_for_module_1.py` | Practice questions for module 1                        |
 | `practice_questions_for_module_2.py` | Practice questions for module 2                        |
 | `practice_questions_for_module_3.py` | Practice questions for module 3                        |
@@ -23,4 +24,5 @@ The project helps me learn Python through a real world use case.
 - Module 2 — Loops and Conditionals
 - Module 3 — Data Structures
 - Module 4 — Strings and functions 
-
+- Module 5 — Working with the Python Standard Library
+- Module 6 — In progress.....
