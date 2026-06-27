@@ -8,17 +8,18 @@ The project helps me learn Python through a real world use case.
 
 | File | Description |
 |------|-------------|
-| `blockchain(after_module_1).py`      | Module 1 — Python basics applied to blockchain         |
-| `blockchain(after_module_2).py`      | Module 2 — Loops and conditionals in blockchain        |
-| `blockchain(after_module_3).py`      | Module 3 - Understanding Complex Data Structures       |
-| `blockchain(after_module_4).py`      | Module 4 - Working with Functions & Strings            |
-| `blockchain(after_module_5).py`      | Module 5 - Working with the Python Standard Library    |     |
-| `practice_questions_for_module_1.py` | Practice questions for module 1                        |
-| `practice_questions_for_module_2.py` | Practice questions for module 2                        |
-| `practice_questions_for_module_3.py` | Practice questions for module 3                        |
-| `practice_questions_for_module_4.py` | Practice questions for module 4                        |
-| `data_structures.py`                 | Module 3 — Data structures used in blockchain          |
-| `striings_&_functions.py`            | Module 4 — Strings and Functions used in the blockchain|
+| `blockchain(after_module_1).py`      | Module 1 — Python basics applied to blockchain                         |
+| `blockchain(after_module_2).py`      | Module 2 — Loops and conditionals in blockchain                        |
+| `blockchain(after_module_3).py`      | Module 3 - Understanding Complex Data Structures                       |
+| `blockchain(after_module_4).py`      | Module 4 - Working with Functions & Strings                            |
+| `blockchain(after_module_5).py`      | Module 5 - Working with the Python Standard Library                    | 
+| `practice_questions_for_module_1.py` | Working on defining functions                                          |
+| `practice_questions_for_module_2.py` | Working on  lists, while loop and if checks                            |
+| `practice_questions_for_module_3.py` | Working on lists and dictionaries (list comprehension,unpackiing etc)  |
+| `practice_questions_for_module_4.py` | Working on functions( normal,lamda etc)                                |
+| `practice_questions_for_module_5.py` | Working on libraries (random and datetime)                             |
+| `data_structures.py`                 | Module 3 — Data structures used in blockchain                          |
+| `striings_&_functions.py`            | Module 4 — Strings and Functions used in the blockchain                |
 ##Progress
 - Module 1 — Python Basics
 - Module 2 — Loops and Conditionals
