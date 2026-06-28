@@ -1,4 +1,4 @@
-# create a list of "persons" dictionaries with names,age and list of hobbies for each person.fill in any data you want.
+# create a list of "persons", dictionaries with names,age and list of hobbies for each person, fill in any data you want.
 persons = [{"name": "shahid", "age": 21, "hobbies": ["playing", "sleeping", "coding"]},
            {"name": "irfan", "age": 21, "hobbies": [
                "playing", "sleeping", "eating", "studying"]},
